@@ -1,9 +1,9 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "TicketManagementSystem",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${Desktop/P/projects}/**"
             ],
             "defines": [
                 "_DEBUG",
